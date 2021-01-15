@@ -4476,7 +4476,7 @@
       "id": 134,
       "titile": "치자감초시탕",
       "na": "梔子甘草豉湯",
-      "world": "chz",
+      "world": "cjz",
       "freq": 2,
       "yakus": [
         "향시",
@@ -4494,7 +4494,7 @@
       "id": 141,
       "titile": "치자건강탕",
       "na": "梔子乾姜湯",
-      "world": "chz",
+      "world": "cjz",
       "freq": 3,
       "yakus": [
         "치자",
@@ -4512,7 +4512,7 @@
       "id": 137,
       "titile": "치자대황시탕",
       "na": "梔子大黃湯",
-      "world": "chz",
+      "world": "cjz",
       "freq": 3,
       "yakus": [
         "향시",
@@ -4532,7 +4532,7 @@
       "id": 139,
       "titile": "치자백피탕",
       "na": "梔子蘗皮湯",
-      "world": "chz",
+      "world": "cjz",
       "freq": 4,
       "yakus": [
         "치자",
@@ -4551,7 +4551,7 @@
       "id": 135,
       "titile": "치자생강시탕",
       "na": "梔子生薑豉湯",
-      "world": "chz",
+      "world": "cjz",
       "freq": 2,
       "yakus": [
         "향시",
@@ -4569,7 +4569,7 @@
       "id": 133,
       "titile": "치자시탕",
       "na": "梔子鼓湯",
-      "world": "chz",
+      "world": "cjz",
       "freq": 5,
       "yakus": [
         "향시",
@@ -4586,7 +4586,7 @@
       "id": 140,
       "titile": "치자후박탕",
       "na": "梔子厚朴湯",
-      "world": "chz",
+      "world": "cjz",
       "freq": 3,
       "yakus": [
         "치자",
